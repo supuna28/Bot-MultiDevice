@@ -18,17 +18,17 @@ global.APIKeys = {
 
 
 // Nomor Owner
-global.ownerNumber = ["6281804680327@s.whatsapp.net","6285878313791@s.whatsapp.net"]
-global.owner = ["6281804680327","62818046803277"]
+global.ownerNumber = ["94753943957@s.whatsapp.net","94753943957@s.whatsapp.net"]
+global.owner = ["94753943957","94753943957"]
 
 
 // Nama Bot
-global.botName = 'Dash - Bot'
+global.botName = 'BOTKINGDOM - Bot'
 
 
 // EXIF
-global.packname = 'Dash Bot'
-global.author = '❤️ Multi-Device ❤️'
+global.packname = 'BOTKINGDOM Bot'
+global.author = '❤️'
 
 
 // OTHERS
@@ -37,16 +37,16 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sessionName = 'Dash'
 global.Mode = 'Public'
 global.mess = {
-    admin: 'Fitur Khusus Admin Group!',
-    botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
-    owner: 'Fitur Khusus Owner Bot',
-    group: 'Fitur Digunakan Hanya Untuk Group!',
-    private: 'Fitur Digunakan Hanya Untuk Private Chat!',
+    admin: 'ඇඩ්මින් සදහා පමනි',
+    botAdmin: 'බොට් ඇඩ්මින්වරයකු නොවෙ!',
+    owner: 'බොසාට විතරයි',
+    group: 'ගෲප් චැට් ඔන්ලි!',
+    private: 'ඉන්බොක්ස් ඔන්ලි!',
     query: 'Command harus disertai Query..',
-    link: 'Command harus disertai Link/Url',
+    link: 'ලින්ක් ප්ලීස්',
     wait: 'Loading...',
-    done: 'Berhasil..',
-    wrongFormat: 'Perintah Salah!!\nSertakan Link setelah Command..',
+    done: 'සාර්ථකයි.',
+    wrongFormat: 'වැරදි විධානයකි.',
     example1: 'Welcome @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @subject (Group Name)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)'
 ,
     example2: 'Good Bye @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @subject (Group Name)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)',
